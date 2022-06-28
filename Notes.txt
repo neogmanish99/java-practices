@@ -1,0 +1,2 @@
+javac -d . Main.java // Save the bytecode file in the same directory 
+javac -d .. Main.java // // Saves the bytecode file in the parent directory 
